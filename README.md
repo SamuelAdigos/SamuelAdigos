@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:svila.smr@gmail.com"><img src="https://img.shields.io/badge/Email-svila.smr%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:svila.smr@gmail.com"><img src="https://img.shields.io/badge/Email-Write_me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/samuel-vr/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=SamuelAdigos&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="Profile views"/>
 </p>
