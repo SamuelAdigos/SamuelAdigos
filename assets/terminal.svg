@@ -1,32 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="418" viewBox="0 0 960 418" role="img" aria-label="terminal intro">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="478" viewBox="0 0 960 478" role="img" aria-label="terminal intro">
 <style>
   .ln{animation:show .01s linear both;font-family:'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace;font-size:16px}
   @keyframes show{from{opacity:0}to{opacity:1}}
   .cur{animation:blink 1s steps(1) infinite}
   @keyframes blink{50%{opacity:0}}
-  .cov0{transform:translateX(71.8px);animation:k0 0.50s steps(6) 0.40s both}@keyframes k0{from{transform:translateX(0)}to{transform:translateX(71.8px)}}.cov2{transform:translateX(129.6px);animation:k2 0.50s steps(12) 1.60s both}@keyframes k2{from{transform:translateX(0)}to{transform:translateX(129.6px)}}.cov4{transform:translateX(177.7px);animation:k4 0.60s steps(17) 2.80s both}@keyframes k4{from{transform:translateX(0)}to{transform:translateX(177.7px)}}.cov6{transform:translateX(553.4px);animation:k6 1.96s steps(56) 4.09s both}@keyframes k6{from{transform:translateX(0)}to{transform:translateX(553.4px)}}.cov8{transform:translateX(42.9px);animation:k8 0.50s steps(3) 6.75s both}@keyframes k8{from{transform:translateX(0)}to{transform:translateX(42.9px)}}
+  .cov0{transform:translateX(71.8px);animation:k0 0.50s steps(6) 0.40s both}@keyframes k0{from{transform:translateX(0)}to{transform:translateX(71.8px)}}.cov2{transform:translateX(129.6px);animation:k2 0.50s steps(12) 1.60s both}@keyframes k2{from{transform:translateX(0)}to{transform:translateX(129.6px)}}.cov4{transform:translateX(177.7px);animation:k4 0.60s steps(17) 2.80s both}@keyframes k4{from{transform:translateX(0)}to{transform:translateX(177.7px)}}.cov6{transform:translateX(630.4px);animation:k6 2.24s steps(64) 4.09s both}@keyframes k6{from{transform:translateX(0)}to{transform:translateX(630.4px)}}.cov8{transform:translateX(42.9px);animation:k8 0.50s steps(3) 7.04s both}@keyframes k8{from{transform:translateX(0)}to{transform:translateX(42.9px)}}
 </style>
 <defs><linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#f89820"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
-<rect x="1" y="1" width="958" height="416" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="958" height="476" rx="14" fill="#0d1117" stroke="#30363d"/>
 <path d="M1 15 a14 14 0 0 1 14 -14 H945 a14 14 0 0 1 14 14 V40 H1 Z" fill="#161b22"/>
 <rect x="1" y="40" width="958" height="2" fill="url(#bar)" opacity=".8"/>
 <circle cx="24" cy="21" r="6.5" fill="#ff5f56"/><circle cx="46" cy="21" r="6.5" fill="#ffbd2e"/><circle cx="68" cy="21" r="6.5" fill="#27c93f"/>
 <text x="480.0" y="26" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8b949e">samuel@dev: ~ — zsh</text>
-<clipPath id="win"><rect x="2" y="2" width="956" height="414" rx="13"/></clipPath><g clip-path="url(#win)">
+<clipPath id="win"><rect x="2" y="2" width="956" height="474" rx="13"/></clipPath><g clip-path="url(#win)">
 <text x="32" y="78" class="ln" style="animation-delay:0.40s"><tspan fill="#4ade80">$</tspan> <tspan fill="#e6edf3">whoami</tspan></text>
 <rect x="51.3" y="60" width="71.8" height="26" fill="#0d1117" class="cov0"/>
 <text x="32" y="108" class="ln" style="animation-delay:1.15s" xml:space="preserve"><tspan fill="#e6edf3">Samuel Vila</tspan><tspan fill="#8b949e">  ·  Senior Java Developer @ Inditex  ·  8+ years</tspan></text>
 <text x="32" y="138" class="ln" style="animation-delay:1.60s"><tspan fill="#4ade80">$</tspan> <tspan fill="#e6edf3">cat ~/.stack</tspan></text>
 <rect x="51.3" y="120" width="129.6" height="26" fill="#0d1117" class="cov2"/>
-<text x="32" y="168" class="ln" style="animation-delay:2.35s" xml:space="preserve"><tspan fill="#22d3ee">Java 21 · Spring Boot 3 · Kafka · Avro · MongoDB · PostgreSQL · Docker · K8s</tspan></text>
+<text x="32" y="168" class="ln" style="animation-delay:2.35s" xml:space="preserve"><tspan fill="#22d3ee">Java 25 · Spring 7 · Kafka · Avro · MongoDB · PostgreSQL · Docker · K8s</tspan></text>
 <text x="32" y="198" class="ln" style="animation-delay:2.80s"><tspan fill="#4ade80">$</tspan> <tspan fill="#e6edf3">cat ~/.principles</tspan></text>
 <rect x="51.3" y="180" width="177.7" height="26" fill="#0d1117" class="cov4"/>
-<text x="32" y="228" class="ln" style="animation-delay:3.65s" xml:space="preserve"><tspan fill="#f89820">Hexagonal · DDD · CQRS · Outbox · TDD · SOLID · Clean Code</tspan></text>
-<text x="32" y="258" class="ln" style="animation-delay:4.09s"><tspan fill="#4ade80">$</tspan> <tspan fill="#e6edf3">ai-copilot --mode=pair-programming --human-review=always</tspan></text>
-<rect x="51.3" y="240" width="553.4" height="26" fill="#0d1117" class="cov6"/>
-<text x="32" y="288" class="ln" style="animation-delay:6.30s" xml:space="preserve"><tspan fill="#4ade80">✔ ideas explored   </tspan><tspan fill="#4ade80">✔ toil automated   </tspan><tspan fill="#4ade80">✔ every diff reviewed by me</tspan></text>
-<text x="32" y="318" class="ln" style="animation-delay:6.75s"><tspan fill="#4ade80">$</tspan> <tspan fill="#e6edf3">now</tspan></text>
+<text x="32" y="228" class="ln" style="animation-delay:3.65s" xml:space="preserve"><tspan fill="#f89820">Hexagonal · DDD · CQRS · Event-Driven · TDD · SOLID · Clean Code</tspan></text>
+<text x="32" y="258" class="ln" style="animation-delay:4.09s"><tspan fill="#4ade80">$</tspan> <tspan fill="#e6edf3">ai --cli=claude,opencode --workspaces=orca --human-review=always</tspan></text>
+<rect x="51.3" y="240" width="630.4" height="26" fill="#0d1117" class="cov6"/>
+<text x="32" y="288" class="ln" style="animation-delay:6.58s" xml:space="preserve"><tspan fill="#4ade80">✔ ideas explored   </tspan><tspan fill="#4ade80">✔ toil automated   </tspan><tspan fill="#4ade80">✔ every diff reviewed by me</tspan></text>
+<text x="32" y="318" class="ln" style="animation-delay:7.04s"><tspan fill="#4ade80">$</tspan> <tspan fill="#e6edf3">now</tspan></text>
 <rect x="51.3" y="300" width="42.9" height="26" fill="#0d1117" class="cov8"/>
-<text x="32" y="348" class="ln" style="animation-delay:7.50s" xml:space="preserve"><tspan fill="#8b5cf6">▸ </tspan><tspan fill="#e6edf3">Specialization Course in AI &amp; Big Data</tspan><tspan fill="#8b949e">  · since Oct 2026</tspan></text>
-<text x="32" y="378" class="ln" style="animation-delay:7.96s"><tspan fill="#4ade80">$</tspan> <tspan class="cur" fill="#e6edf3">█</tspan></text>
+<text x="32" y="348" class="ln" style="animation-delay:7.79s" xml:space="preserve"><tspan fill="#8b5cf6">▸ </tspan><tspan fill="#e6edf3">Platform Core Supply Chain @ Inditex</tspan><tspan fill="#8b949e">  · helping across several projects</tspan></text>
+<text x="32" y="378" class="ln" style="animation-delay:8.23s" xml:space="preserve"><tspan fill="#8b5cf6">▸ </tspan><tspan fill="#e6edf3">Specialization Course in AI &amp; Big Data</tspan><tspan fill="#8b949e">  · since Oct 2026</tspan></text>
+<text x="32" y="408" class="ln" style="animation-delay:8.68s" xml:space="preserve"><tspan fill="#8b5cf6">▸ </tspan><tspan fill="#e6edf3">Contributing to open source</tspan><tspan fill="#8b949e">  · since 2026</tspan></text>
+<text x="32" y="438" class="ln" style="animation-delay:9.13s"><tspan fill="#4ade80">$</tspan> <tspan class="cur" fill="#e6edf3">█</tspan></text>
 </g></svg>
