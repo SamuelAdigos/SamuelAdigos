@@ -13,6 +13,11 @@
 </p>
 
 <p align="center">
+  <a href="./cv/Samuel_Vila_CV_EN.pdf"><img src="https://img.shields.io/badge/Descargar_CV-English-f89820?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV (inglés)"/></a>
+  <a href="./cv/Samuel_Vila_CV_ES.pdf"><img src="https://img.shields.io/badge/Descargar_CV-Espa%C3%B1ol-8b5cf6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV (español)"/></a>
+</p>
+
+<p align="center">
   <img src="./assets/terminal-es.svg" width="88%" alt="whoami: Samuel Vila, Senior Java Developer en Inditex"/>
 </p>
 
