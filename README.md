@@ -18,12 +18,13 @@
 
 ## 👨‍💻 About me
 
-Backend developer with **8+ years** building applications with **Java**. I love clean code, software design patterns and well-designed domains — and I'm always looking for ways to improve and optimise how I (and my team) work.
+Backend developer with **8+ years** building applications with **Java**. I love clean code, well-modelled domains and pragmatic architecture — and I'm always looking for ways to improve and optimise how I (and my team) work.
 
-- 🏢 **Senior Java Developer at [Inditex](https://www.inditex.com)**, in a high-performance staff team that starts projects from scratch, unblocks high-workload projects and sets the technical foundations the rest of the teams build on.
+- 🏢 **Senior Java Developer at [Inditex](https://www.inditex.com)** — for the past year in the **Platform Core Supply Chain (PCSC)** vertical, helping across several projects. Currently on **Java 25** and **Spring Framework 7**.
 - 🎓 Since **October 2026** I'm studying a **Specialization Course in Artificial Intelligence & Big Data** — bringing data and ML into my backend toolbox.
-- 🤖 **Heavy, deliberate AI user**: I use AI as a copilot to develop, organise my work and automate day-to-day processes. It makes me faster — I still review, test and own every line I commit.
-- 🏛️ Fan of **Hexagonal Architecture, DDD, CQRS, the Outbox pattern, TDD and SOLID**.
+- 🌱 Since **2026** I've been **contributing to open-source projects** to give back and learn new ways of working, alongside the personal projects I maintain.
+- 🤖 **Heavy, deliberate AI user**: AI is my copilot to develop, organise my work and automate day-to-day processes. It makes me faster — I still review, test and own every line I commit.
+- 🏛️ **Pragmatic about architecture**: Hexagonal, DDD, CQRS, event-driven design, TDD and SOLID — and whichever design pattern the problem actually calls for.
 
 ## 🤖 How I work with AI
 
@@ -40,67 +41,139 @@ AI is part of my everyday workflow, not a replacement for engineering judgement:
 | Organising tasks, notes and priorities | Testing, refactoring and code review before each commit / PR |
 | Automating repetitive day-to-day processes | Quality gates: CI, tests, static analysis |
 
+#### 🧰 My AI toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-CLI-d97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code CLI"/>
+  <img src="https://img.shields.io/badge/OpenCode-CLI-111827?style=flat-square" alt="OpenCode CLI"/>
+  <img src="https://img.shields.io/badge/Orca-AI_workspaces_%26_sessions-8b5cf6?style=flat-square" alt="Orca"/>
+</p>
+
+- **Agents in the terminal** — I mostly work with **Claude Code CLI** and **OpenCode CLI**.
+- **Orca** as my manager for AI workspaces and sessions, so I can keep several tasks and contexts running in parallel without losing track.
+- **Model-aware** — I keep up with new models as they're released and pick the right one for each task, balancing quality against credit spend: lighter models for routine work, top-tier ones for complex design or tricky debugging.
+
 ## 🧭 Career path
 
 <p align="center">
   <img src="./assets/timeline.svg" width="100%" alt="Career timeline from 2015 to 2026"/>
 </p>
 
+| Period | Company | Role | Focus |
+|---|---|---|---|
+| 2024 → now | **Inditex** | Senior Java Developer | Event-driven microservices · Supply Chain platform |
+| 2023 – 2024 | **Diverger** | Senior Java Developer | Multi-cloud management product |
+| 2021 – 2023 | **Hewlett Packard Enterprise** | Senior Backend Developer | Reactive microservices · observability |
+| 2020 – 2021 | **Nática** | Senior Backend Developer | Microservices migration · Java & .NET |
+| 2019 – 2020 | **Atos** | Mid Backend Developer | Public healthcare platform |
+| 2019 | **Coremain** | Junior Backend Developer | Public education · SQL performance |
+| 2018 – 2019 | **Altia** | Junior Backend Developer | Public administration |
+
 <details open>
 <summary><b>🟠 Inditex</b> — Senior Java Developer · <i>May 2024 – present</i></summary>
 <br/>
 
-- High-performance development **staff team**: we kick off projects from scratch, help projects with high workload and establish the best-performance foundations used across the whole team. Analysis and development in a self-sufficient team.
-- **Hexagonal architecture, DDD, CQRS, Outbox pattern, TDD, SOLID.**
-- REST APIs with **OpenAPI**, **Kafka** event APIs defined with **Avro**, Anti-Corruption Layers (ACLs) and Bounded Contexts (BCs).
-- **Advanced use of AI as a development copilot** to design, code, organise my work and automate day-to-day processes, maximising productivity — always with a human in the loop: every change goes through my own review, tests and quality gates before each commit / PR.
+> High-performance **staff team** that kicks off projects from scratch, reinforces teams with high workload and sets the technical foundations others build on. For the past year I've been in the **Platform Core Supply Chain (PCSC)** vertical, helping across several projects.
 
-`Java 21` `Spring Boot 3` `Kafka` `Avro` `Schema Registry` `Karate` `MapStruct` `Lombok` `JUnit 5` `Mockito` `Instancio` `Micrometer` `OpenTelemetry` `Prometheus` `MongoDB` `PostgreSQL` `Docker` `Zookeeper` `GitHub`
+- Design and development of **event-driven microservices** with **Hexagonal architecture, DDD, CQRS, TDD and SOLID**, applying whichever design patterns each problem needs (Transactional Outbox, Saga, Anti-Corruption Layer, Strategy, Factory…).
+- **REST APIs** with **OpenAPI** (API-first), **Kafka** event APIs with **Avro** & Schema Registry, Anti-Corruption Layers and Bounded Contexts.
+- Took part in the **platform upgrade from Java 21 to Java 25** and **Spring Framework 7**.
+- Observability by design: metrics and tracing with **Micrometer, OpenTelemetry and Prometheus**.
+- Self-sufficient team: I own tasks end-to-end, from analysis to production.
+- **Advanced use of AI as a development copilot** (Claude Code / OpenCode CLI, Orca) to design, code, organise my work and automate day-to-day processes — always with a human in the loop: every change goes through my own review, tests and quality gates before each commit / PR.
+
+`Java 25` `Spring Framework 7` `Spring Boot` `Kafka` `Avro` `Schema Registry` `OpenAPI` `Karate` `MapStruct` `Lombok` `JUnit 5` `Mockito` `Instancio` `Micrometer` `OpenTelemetry` `Prometheus` `MongoDB` `PostgreSQL` `Docker` `GitHub`
 </details>
 
 <details>
 <summary><b>🟡 Diverger</b> — Senior Java Developer · <i>Oct 2023 – May 2024</i></summary>
 <br/>
 
-- Hexagonal architecture and DDD with microservices.
-- Company's own product to manage different cloud platforms (AWS, Azure, GCP) from a single application.
-- DevOps tasks in the CI/CD pipeline (Helm, Sonar, Docker, Jenkins). Applied software design patterns.
+> Consultancy's own product: a **single platform to manage resources across AWS, Azure and Google Cloud**.
 
-`Java 17` `Spring Boot 3` `Spring Cloud` `AWS` `Azure` `Google Cloud` `GraphQL` `Kubernetes` `Helm` `MongoDB` `Cucumber` `Gradle`
+- Built microservices with **Hexagonal architecture and DDD**, keeping each cloud-provider integration decoupled and extensible through design patterns.
+- **GraphQL** APIs and behaviour-driven tests with **Cucumber**.
+- Owned part of the **CI/CD pipeline**: Docker images, Helm charts, Jenkins pipelines and Sonar quality gates, deploying on **Kubernetes**.
+
+`Java 17` `Spring Boot 3` `Spring Cloud` `AWS` `Azure` `Google Cloud` `GraphQL` `Kubernetes` `Helm` `Jenkins` `Sonar` `MongoDB` `Cucumber` `Gradle`
 </details>
 
 <details>
 <summary><b>🔵 Hewlett Packard Enterprise</b> — Senior Backend Developer · <i>Aug 2021 – Oct 2023</i></summary>
 <br/>
 
-- Hexagonal architecture and **reactive, asynchronous** programming with microservices.
-- TDD with unit, integration, e2e and load tests.
-- Tracing and telemetry with OpenTelemetry, Grafana and Micrometer/Sleuth.
+> **Reactive, asynchronous microservices** on Kubernetes, with a strong focus on testing and observability.
 
-`Java 17` `Spring WebFlux` `Spring Boot 3` `Spring Cloud` `Temporal.io` `OpenTelemetry` `Gatling` `BlockHound` `MongoDB` `Kubernetes` `Helm` `Amazon SQS` `Amazon SNS`
+- Non-blocking services with **Spring WebFlux** and Hexagonal architecture; **BlockHound** to catch blocking calls in reactive code.
+- Long-running workflow orchestration with **Temporal.io** and async messaging over **Amazon SQS / SNS**.
+- **TDD** across the whole test pyramid: unit, integration, e2e (Cucumber) and load tests (**Gatling**).
+- Distributed tracing and telemetry with **OpenTelemetry, Micrometer/Sleuth, Grafana and Logstash**.
+
+`Java 17` `Spring WebFlux` `Spring Boot 3` `Spring Cloud` `Temporal.io` `Amazon SQS` `Amazon SNS` `OpenTelemetry` `Micrometer` `Grafana` `Gatling` `BlockHound` `MongoDB` `Kubernetes` `Helm` `Maven`
 </details>
 
 <details>
 <summary><b>🩷 Nática</b> — Senior Backend Developer · <i>Jun 2020 – Aug 2021</i></summary>
 <br/>
 
-- Two stacks in parallel: Java and Visual Basic .NET.
-- Technical analysis with the functional team, development and testing.
-- Migration to microservices (Java) and maintenance of legacy code.
+> Two products, two stacks in parallel: **Java (Spring)** and **VB.NET (ASP.NET Web Forms)**.
 
-`Java 11` `Spring Boot` `Spring Security` `Oracle` `MongoDB` `Jenkins` `ASP.NET Web Forms` `SOAP`
+- Took part in the **migration of a Java application to microservices**, while maintaining and stabilising legacy code.
+- Worked closely with the functional team to turn requirements into technical analysis, then developed and tested the solution.
+- Secured services with **Spring Security** on top of Oracle and MongoDB, with CI on Jenkins.
+
+`Java 11` `Spring Boot` `Spring Security` `Oracle` `MongoDB` `Jenkins` `JUnit 4` `ASP.NET Web Forms` `VB.NET` `SOAP` `jQuery`
 </details>
 
 <details>
-<summary><b>🟣 Atos · 🟢 Coremain · 🔷 Altia</b> — Mid / Junior Backend Developer · <i>Sep 2018 – Jun 2020</i></summary>
+<summary><b>🟣 Atos</b> — Mid Backend Developer · <i>Sep 2019 – Jun 2020</i></summary>
 <br/>
 
-- **Atos** — high-demand project for the Galician healthcare sector (invoicing, delivery notes, orders, warehouse accounting), integration with legacy public services.
-- **Coremain** — Galician public education projects (school admissions, extraordinary awards); lots of SQL optimisation.
-- **Altia** — projects for the Galician public administration; bug fixing, code-smell cleanup and documentation.
+> **High-demand platform for the Galician public healthcare sector**, with a large number of users and operations.
 
-`Java 8/11` `Spring` `Spring Boot 2` `Hibernate` `Struts 2` `JSF` `SOAP` `Oracle` `Informix` `Maven` `Tomcat`
+- Wide functional scope: invoicing, delivery notes, purchase orders and warehouse accounting.
+- **SOAP integrations** (Spring WS) with legacy external public services and internal services.
+- Technical analysis of new features and tasks.
+
+`Java 11` `Spring Boot 2` `Spring WS` `Spring Security` `Hibernate` `Jackson` `SOAP` `Dojo Toolkit` `Oracle` `Informix` `Maven`
 </details>
+
+<details>
+<summary><b>🟢 Coremain</b> — Junior Backend Developer · <i>Apr 2019 – Sep 2019</i></summary>
+<br/>
+
+> Projects for **Galician public education**.
+
+- Development of the **school admissions** system and the **extraordinary awards** platform.
+- Lots of **SQL performance work**: query tuning, stored procedures and reports with JasperReports.
+
+`Java 8` `Spring` `Struts 2` `Oracle` `JasperReports` `SOAP` `Maven` `Tomcat` `Mercurial`
+</details>
+
+<details>
+<summary><b>🔷 Altia</b> — Junior Backend Developer · <i>Sep 2018 – Apr 2019</i></summary>
+<br/>
+
+> Projects for the **Galician public administration** — where my professional career started.
+
+- Grew quickly from guided tasks to working autonomously.
+- Bug fixing, code-smell clean-up and technical documentation.
+
+`Java 8` `Spring` `JSF` `JSP` `Struts` `Informix` `jQuery`
+</details>
+
+## 🧩 Design patterns & practices
+
+I don't marry a pattern — I pick the one the problem calls for. These are the ones I use most often:
+
+| Family | Patterns |
+|---|---|
+| **Architecture** | Hexagonal (Ports & Adapters) · DDD (Aggregates, Bounded Contexts, Domain Events) · CQRS · Event-Driven · Microservices |
+| **Distributed systems** | Transactional Outbox · Saga · Anti-Corruption Layer · Idempotent Consumer · Retry & Circuit Breaker · API-first |
+| **Creational** | Factory Method · Abstract Factory · Builder · Singleton · Prototype |
+| **Structural** | Adapter · Facade · Decorator · Proxy · Composite · Bridge |
+| **Behavioural** | Strategy · Template Method · Observer · Command · Chain of Responsibility · State · Specification |
+| **Practices** | TDD · SOLID · Clean Code · Code review · Observability by design |
 
 ## 🛠️ Tech stack
 
@@ -122,14 +195,8 @@ AI is part of my everyday workflow, not a replacement for engineering judgement:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hexagonal_Architecture-f89820?style=flat-square" alt="Hexagonal"/>
-  <img src="https://img.shields.io/badge/DDD-ec4899?style=flat-square" alt="DDD"/>
-  <img src="https://img.shields.io/badge/CQRS-8b5cf6?style=flat-square" alt="CQRS"/>
-  <img src="https://img.shields.io/badge/Outbox_Pattern-6366f1?style=flat-square" alt="Outbox"/>
-  <img src="https://img.shields.io/badge/TDD-22d3ee?style=flat-square&logoColor=black" alt="TDD"/>
-  <img src="https://img.shields.io/badge/SOLID-4ade80?style=flat-square" alt="SOLID"/>
-  <img src="https://img.shields.io/badge/Event--Driven-f59e0b?style=flat-square" alt="Event-Driven"/>
-  <img src="https://img.shields.io/badge/Reactive-0ea5e9?style=flat-square" alt="Reactive"/>
+  <img src="https://img.shields.io/badge/Java_25-f89820?style=flat-square&logo=openjdk&logoColor=white" alt="Java 25"/>
+  <img src="https://img.shields.io/badge/Spring_Framework_7-6db33f?style=flat-square&logo=spring&logoColor=white" alt="Spring Framework 7"/>
   <img src="https://img.shields.io/badge/Apache_Avro-1f6feb?style=flat-square" alt="Avro"/>
   <img src="https://img.shields.io/badge/OpenTelemetry-425cc7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
   <img src="https://img.shields.io/badge/JUnit_5-25a162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5"/>
@@ -137,6 +204,10 @@ AI is part of my everyday workflow, not a replacement for engineering judgement:
   <img src="https://img.shields.io/badge/Gatling-ff9e2a?style=flat-square" alt="Gatling"/>
   <img src="https://img.shields.io/badge/Temporal.io-000?style=flat-square" alt="Temporal"/>
 </p>
+
+## 🌱 Open source & side projects
+
+Since **2026** I've been contributing to **open-source projects** — to give something back to the tools I use every day and to learn new methodologies from other teams and communities. I combine it with the **personal projects** I keep maintaining, which are my playground for new technologies and approaches.
 
 ## 🎮 Origin story
 
@@ -164,7 +235,7 @@ That's where my obsession with performance, scalability and clean design started
 
 ## 📫 Let's talk
 
-Open to interesting backend challenges, event-driven systems and anything where **Java meets AI & data**.
+Open to interesting backend challenges, event-driven systems, open-source collaborations and anything where **Java meets AI & data**.
 Drop me a line at **[svila.smr@gmail.com](mailto:svila.smr@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/samuel-vr/)**.
 
 <p align="center">
