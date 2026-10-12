@@ -26,7 +26,7 @@
 Backend developer with **8+ years** building applications with **Java**. I love clean code, well-modelled domains and pragmatic architecture — and I'm always looking for ways to improve and optimise how I (and my team) work.
 
 - 🏢 **Senior Java Developer at [Inditex](https://www.inditex.com)** — for the past year in the **Platform Core Supply Chain (PCSC)** vertical, helping across several projects. Currently on **Java 25** and **Spring Framework 7**.
-- 🎓 Since **October 2026** I'm studying a **Specialization Course in Artificial Intelligence & Big Data** — bringing data and ML into my backend toolbox.
+- 🎓 Since **October 2026** I'm studying a **Specialization Course in Artificial Intelligence & Big Data** at CIFP A Carballeira – Marcos Valcárcel — bringing data and ML into my backend toolbox.
 - 🌱 Since **2026** I've been **contributing to open-source projects** to give back and learn new ways of working, alongside the personal projects I maintain.
 - 🤖 **Heavy, deliberate AI user**: AI is my copilot to develop, organise my work and automate day-to-day processes. It makes me faster — I still review, test and own every line I commit.
 - 🏛️ **Pragmatic about architecture**: Hexagonal, DDD, CQRS, event-driven design, TDD and SOLID — and whichever design pattern the problem actually calls for.
@@ -97,6 +97,7 @@ AI is part of my everyday workflow, not a replacement for engineering judgement:
 
 > Consultancy's own product: a **single platform to manage resources across AWS, Azure and Google Cloud**.
 
+- Development of software solutions using **generative AI** and engineering best practices.
 - Built microservices with **Hexagonal architecture and DDD**, keeping each cloud-provider integration decoupled and extensible through design patterns.
 - **GraphQL** APIs and behaviour-driven tests with **Cucumber**.
 - Owned part of the **CI/CD pipeline**: Docker images, Helm charts, Jenkins pipelines and Sonar quality gates, deploying on **Kubernetes**.
@@ -210,6 +211,14 @@ I don't marry a pattern — I pick the one the problem calls for. These are the 
   <img src="https://img.shields.io/badge/Gatling-ff9e2a?style=flat-square" alt="Gatling"/>
   <img src="https://img.shields.io/badge/Temporal.io-000?style=flat-square" alt="Temporal"/>
 </p>
+
+## 🎓 Education
+
+| Period | Studies | Centre |
+|---|---|---|
+| 2026 → now | Specialization Course in Artificial Intelligence & Big Data | CIFP A Carballeira – Marcos Valcárcel |
+| 2016 – 2018 | Higher VET Diploma in Web Development (CFGS) | CIFP A Carballeira – Marcos Valcárcel |
+| 2012 – 2014 | Intermediate VET Diploma in Microcomputer Systems and Networks (CFGM) | IES Antón Losada Diéguez |
 
 ## 🌱 Open source & side projects
 

@@ -26,7 +26,7 @@
 Desarrollador backend con **más de 8 años** de experiencia construyendo aplicaciones con **Java**. Me apasionan el código limpio, los dominios bien modelados y la arquitectura pragmática, y siempre busco formas de mejorar y optimizar mi trabajo (y el de mi equipo).
 
 - 🏢 **Senior Java Developer en [Inditex](https://www.inditex.com)**: desde hace un año en la vertical de **Platform Core Supply Chain (PCSC)**, apoyando en varios proyectos. Actualmente con **Java 25** y **Spring Framework 7**.
-- 🎓 Desde **octubre de 2026** estudio un **Curso de Especialización en Inteligencia Artificial y Big Data**, para sumar datos y ML a mi caja de herramientas backend.
+- 🎓 Desde **octubre de 2026** estudio un **Curso de Especialización en Inteligencia Artificial y Big Data** en el CIFP A Carballeira – Marcos Valcárcel, para sumar datos y ML a mi caja de herramientas backend.
 - 🌱 Desde **2026** **colaboro en proyectos open source** para aportar y aprender nuevas metodologías, además de los proyectos personales que mantengo.
 - 🤖 **Usuario avanzado y consciente de la IA**: la uso como copiloto para desarrollar, organizarme y automatizar procesos del día a día. Me hace más rápido, pero reviso, pruebo y respondo de cada línea que subo.
 - 🏛️ **Pragmático con la arquitectura**: Hexagonal, DDD, CQRS, diseño orientado a eventos, TDD y SOLID, y el patrón de diseño que cada problema necesite.
@@ -97,6 +97,7 @@ La IA forma parte de mi flujo de trabajo diario, no sustituye al criterio de ing
 
 > Producto propio de la empresa: una **única plataforma para gestionar recursos en AWS, Azure y Google Cloud**.
 
+- Desarrollo de soluciones software utilizando **IA generativa** y buenas prácticas.
 - Microservicios con **arquitectura hexagonal y DDD**, manteniendo la integración con cada proveedor cloud desacoplada y extensible mediante patrones de diseño.
 - APIs **GraphQL** y tests de comportamiento con **Cucumber**.
 - Responsable de parte del **pipeline CI/CD**: imágenes Docker, charts de Helm, pipelines de Jenkins y quality gates de Sonar, con despliegue en **Kubernetes**.
@@ -210,6 +211,14 @@ No me caso con ningún patrón: uso el que el problema necesita. Estos son los q
   <img src="https://img.shields.io/badge/Gatling-ff9e2a?style=flat-square" alt="Gatling"/>
   <img src="https://img.shields.io/badge/Temporal.io-000?style=flat-square" alt="Temporal"/>
 </p>
+
+## 🎓 Formación
+
+| Periodo | Estudios | Centro |
+|---|---|---|
+| 2026 → hoy | Curso de Especialización en Inteligencia Artificial y Big Data | CIFP A Carballeira – Marcos Valcárcel |
+| 2016 – 2018 | Ciclo Formativo de Grado Superior en Desarrollo Web | CIFP A Carballeira – Marcos Valcárcel |
+| 2012 – 2014 | Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes | IES Antón Losada Diéguez |
 
 ## 🌱 Open source y proyectos personales
 
