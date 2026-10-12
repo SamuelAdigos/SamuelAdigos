@@ -85,6 +85,7 @@ La IA forma parte de mi flujo de trabajo diario, no sustituye al criterio de ing
 - Participé en la **migración de la plataforma de Java 21 a Java 25** y a **Spring Framework 7**.
 - Observabilidad desde el diseño: métricas y trazas con **Micrometer, OpenTelemetry y Prometheus**.
 - Equipo autosuficiente: me encargo de las tareas de principio a fin, del análisis a producción.
+- **Guardias de soporte semanales** del proyecto, atendiendo incidencias en producción.
 - **Dominio avanzado de la IA como copiloto de desarrollo** (Claude Code / OpenCode CLI, Orca) para diseñar, programar, organizarme y automatizar procesos del día a día — siempre con supervisión humana: cada cambio pasa por mi propia revisión, tests y quality gates antes de cada commit / PR.
 
 `Java 25` `Spring Framework 7` `Spring Boot` `Kafka` `Avro` `Schema Registry` `OpenAPI` `Karate` `MapStruct` `Lombok` `JUnit 5` `Mockito` `Instancio` `Micrometer` `OpenTelemetry` `Prometheus` `MongoDB` `PostgreSQL` `Docker` `GitHub`

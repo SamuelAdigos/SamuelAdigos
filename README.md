@@ -85,6 +85,7 @@ AI is part of my everyday workflow, not a replacement for engineering judgement:
 - Took part in the **platform upgrade from Java 21 to Java 25** and **Spring Framework 7**.
 - Observability by design: metrics and tracing with **Micrometer, OpenTelemetry and Prometheus**.
 - Self-sufficient team: I own tasks end-to-end, from analysis to production.
+- **Weekly on-call support shifts** for the project, handling production incidents.
 - **Advanced use of AI as a development copilot** (Claude Code / OpenCode CLI, Orca) to design, code, organise my work and automate day-to-day processes — always with a human in the loop: every change goes through my own review, tests and quality gates before each commit / PR.
 
 `Java 25` `Spring Framework 7` `Spring Boot` `Kafka` `Avro` `Schema Registry` `OpenAPI` `Karate` `MapStruct` `Lombok` `JUnit 5` `Mockito` `Instancio` `Micrometer` `OpenTelemetry` `Prometheus` `MongoDB` `PostgreSQL` `Docker` `GitHub`
